@@ -1,0 +1,5 @@
+No quedó correcto el LocalStorage
+
+No está guardando cuando actualizo. Verificar el useEffect de App.jsx
+
+Video 89
